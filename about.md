@@ -4,4 +4,4 @@ title: About
 ---
 lazy to write, yet
 
-{{site.about}}
+
