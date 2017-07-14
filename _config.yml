@@ -4,7 +4,7 @@ author: Jekyll Writer
 description: >
   This theme is disigned based on Mailbox Blog, and licensed under MIT. This
   theme is also default theme for new site created by Jekyll Writer.
-permalink: '/:month/:day/:title/'
+permalink: '/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
 gems:
